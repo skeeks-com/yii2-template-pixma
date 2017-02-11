@@ -1,0 +1,20 @@
+Change Log
+--------------
+Version 2.0.1 (22 May 2014)
+
+* NEW: Added a Flat Version
+* NEW: Home Page Option
+* NEW: Contact Option Page
+* UPDATED: Twitter Bootstrap 3.1.1
+* UPDATED: Font Awesome Icons 4.1.0
+* IMPROVEMENT: Redesigned Home Pages
+* IMPROVEMENT: Navigation (Menu)
+* IMPROVEMENT: Tabs/Accordions
+* IMPROVEMENT: Paginations/Pagers
+* FIXED: Navigation for Mobile Devices
+* FIXED: CSS bugs
+
+
+Version 1.0.1 (29 September 2013)
+
+* Initial Release
