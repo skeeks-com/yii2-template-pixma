@@ -9,5 +9,5 @@ namespace skeeks\template\pixma;
 
 class PixmaNormalWideAsset extends PixmaAsset
 {
-    public $sourcePath = '@skeeks/template/pixma/src/NormalVersion/PixmaWide';
+    public $sourcePath = '@skeeks/template/pixma/src/HTML/NormalVersion/PixmaWide';
 }

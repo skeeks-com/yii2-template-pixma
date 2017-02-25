@@ -9,5 +9,5 @@ namespace skeeks\template\pixma;
 
 class PixmaFlatBoxedAsset extends PixmaAsset
 {
-    public $sourcePath = '@skeeks/template/pixma/src/FlatVersion/PixmaFlatBoxed';
+    public $sourcePath = '@skeeks/template/pixma/src/HTML/FlatVersion/PixmaFlatBoxed';
 }
